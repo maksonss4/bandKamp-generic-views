@@ -1,4 +1,6 @@
-# M5 - BandKamp Generic View
+# BandKamp Generic View
+
+Uma aplicação em Python, Django-rest-framework e Postgres com CRUD de usuário, onde usuários cadastrados com permissão e autenticação podem criar, ver, atualizar e deletar músicas e albuns.
 
 ## Instalação dos pacotes de teste
 
